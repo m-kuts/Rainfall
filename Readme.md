@@ -9,7 +9,7 @@ To setup this project, you need to clone the git repo
 
 ```sh
 $ git clone https://github.com/m-kuts/Rainfall
-$ cd RainfallApi
+$ cd Rainfall/RainfallApi/  
 ```
 
 followed by
